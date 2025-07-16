@@ -82,6 +82,13 @@ Dataset from the U.S. Census Bureau
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live dashboard](https://us-population-dashboard-bvgoomdjz42pt6zhbuynf7.streamlit.app)
+
+
+---
+
 ## 📬 Contact
 Supun Wickramarachchi
 
